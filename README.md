@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/Yogesh-V23
 - 💬 Ask me about POSTMAN, Manual Testing, Katalon Studio
 - 📫 How to reach me 023yogesh@gmail.com
-- 📄 Know about my experiences http://linkedin.com/in/yogeshvedpathak/
+- 📄 Know about my experiences https://linkedin.com/in/yogeshvedpathak/
 
 ### Skills
 
